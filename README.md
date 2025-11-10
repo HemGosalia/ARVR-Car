@@ -47,13 +47,9 @@ AR Car Game leverages Google's **ARCore** framework through Unity's AR Foundatio
 6. Collect as many packages as possible!
 
 
-<div align="center">
-  <video src="https://github.com/HemGosalia/aARVR-Car/ardemo.mp4" width="400" controls>
-    Your browser does not support the video tag.
-  </video>
-</div>
 
----
+https://github.com/HemGosalia/aARVR-Car/ardemo.mp4
+
 
 <p align="center">
   Made with ❤️ using Unity AR Foundation
